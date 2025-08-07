@@ -1,0 +1,23 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "css": "css",
+    "scss": "css",
+    "html": "html",
+    "typescript": "html",
+    "typescriptreact": "html"
+  },
+
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "externalTemplate": true,
+      "skipStyle": true
+    }
+  },
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false
+}
